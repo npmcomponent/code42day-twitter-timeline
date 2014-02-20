@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/twitter-timeline](http://github.com/code42day/twitter-timeline). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-twitter-timeline`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 
 # twitter-timeline
 

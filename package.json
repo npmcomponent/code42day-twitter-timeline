@@ -1,0 +1,17 @@
+{
+  "name": "code42day-twitter-timeline",
+  "description": "Displays twitter timeline similarly to twitter widget but without iframe and with more flexible styling options.",
+  "version": "0.2.0",
+  "keywords": [
+    "twitter"
+  ],
+  "styles": [
+    "twitter-timeline.css"
+  ],
+  "dependencies": {
+    "code42day-el": "git://github.com/npmcomponent/code42day-el.git",
+    "code42day-tweet-html": "git://github.com/npmcomponent/code42day-tweet-html.git",
+    "visionmedia-superagent": "git://github.com/npmcomponent/visionmedia-superagent.git"
+  },
+  "license": "MIT"
+}

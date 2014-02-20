@@ -1,6 +1,6 @@
-var el = require('el');
-var tweet2html = require('tweet-html');
-var request = require('superagent');
+var el = require('code42day-el');
+var tweet2html = require('code42day-tweet-html');
+var request = require('visionmedia-superagent');
 
 module.exports = function (username) {
   var self, my = {
